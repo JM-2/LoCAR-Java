@@ -1,7 +1,7 @@
 
 ## LoCAR - LOCADORA DE CARROS
 
-**sistema de locadora de carro para praticar fundamentos de poo java**
+**Sistema de locadora de carro para praticar fundamentos de poo java**
 
 **//CRUD JAVA EM CONSTRUÇÃO**
 
