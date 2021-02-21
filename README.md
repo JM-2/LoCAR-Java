@@ -1,7 +1,7 @@
 
 ## LoCAR - LOCADORA DE CARROS
 
-**Sistema de locadora de carro para praticar fundamentos de poo java**<br />
+**Sistema de locadora de carro para praticar fundamentos de POO com Java**<br />
 
 ![Pack](https://github.com/JM-2/LoCAR-java/blob/main/img/pack.png)
 ![Menu1](https://github.com/JM-2/LoCAR-java/blob/main/img/Menu1.png)
