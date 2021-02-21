@@ -6,8 +6,7 @@
 ![Pack](https://github.com/JM-2/LoCAR-java/blob/main/img/pack.png)
 ![Menu1](https://github.com/JM-2/LoCAR-java/blob/main/img/Menu1.png)
 
-**CRUD JAVA EM CONSTRUÇÃO**
-
+**CRUD em construção**
 ![ListaClientes](https://github.com/JM-2/LoCAR-java/blob/main/img/ListaClientes.png)
 
 Atualmente, Console application...
